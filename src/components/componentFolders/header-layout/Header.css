@@ -1,0 +1,74 @@
+.navbar {
+    width: 1170px;
+    height: 50px;
+    margin-top: 30.60693359375px;
+    margin-left: 135px;
+    display: flex;
+    flex-wrap: wrap; 
+
+}
+
+.butn1 {
+    width: 120px;
+    height: 50px;
+    border: 1px solid #00ADEE;
+    background-color: #00ADEE;
+    color: white;
+    border-radius: 150px;
+    font-family: Avenir Arabic;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.navbar-nav {
+    color: #1D1D35;
+    font-family: Avenir Arabic;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 30.9px;
+    width: 381px;
+    height: 31px;
+    margin-top: 9.5px;
+    margin-left: 250.5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-item{
+    list-style: none;
+}
+.nav-item a{
+    text-decoration: none;
+}
+
+.name {
+    width: 140.52px;
+    height: 39px;
+    margin-top: -46px;
+    margin-left: 1029.47900390625px;
+    font-family: Avenir Arabic;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.clean {
+    color: #303C38;
+
+
+}
+
+.stead {
+    color: #00ADEE;
+
+}
